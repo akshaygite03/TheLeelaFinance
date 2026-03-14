@@ -37,7 +37,7 @@ export default function Footer() {
           </div>
           <div className="flex flex-col space-y-4">
             <h4 className="text-black dark:text-white font-semibold mb-2">Socials</h4>
-            <a href="#" className="hover:text-black dark:hover:text-white transition-colors hover-target">LinkedIn</a>
+            <a href="https://www.linkedin.com/company/110815980/" target="_blank" rel="noopener noreferrer" className="hover:text-black dark:hover:text-white transition-colors hover-target">LinkedIn</a>
             <a href="#" className="hover:text-black dark:hover:text-white transition-colors hover-target">X</a>
             <a href="#" className="hover:text-black dark:hover:text-white transition-colors hover-target">Bloomberg</a>
           </div>
